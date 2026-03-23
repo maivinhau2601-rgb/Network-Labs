@@ -1,6 +1,6 @@
 # Lab Overview
 This lab demonstrates OSPF and ACL configuration.
-<img src="Topology.png" alt="Alt text" width="500" height="300">
+<img src="Topology.png" alt="Alt text">
 The network has two main tasks involving:
 
 1. Configuring OSPF on Router 1 and Router 2.
