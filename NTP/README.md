@@ -1,6 +1,6 @@
 # Lab Overview
 This lab demonstrates NTP configuration.
-<img src="Topology.png" width="500"/>
+<img src="Topology.png" alt="Alt text">
 The network has two main tasks involving:
 1. Configure the software clock on R1, R2, and R3 to 12:00:00 Dec 30 2020 (UTC).
 2. Configure the time zone of R1, R2, and R3 to match your own.
