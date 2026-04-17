@@ -1,6 +1,6 @@
 # Lab Overview
 This lab demonstrates SSH configuration. 
-<img src="Topology.png" alt="Alt text">
+<img src="topology.png" alt="Alt text">
 The network has been pre-configured with IP addresses and OSPF, and the tasks involve:
 
 1. Configure the Switch 2 via Laptop.
